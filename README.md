@@ -1,5 +1,7 @@
 # aloha!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=replicadse&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## PGP public keys:
 
 <a href="https://raw.githubusercontent.com/replicadse/replicadse/master/heiko.a.weber@gmail.com.pgp">Public key</a>\
