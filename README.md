@@ -1,4 +1,4 @@
-# aloha!
+# aloha
 
 ## PGP public key:
 
@@ -20,6 +20,3 @@ yvn+QfU+TQXSMcEpAQCkyo+sJDFPxa2GhfG6aPzwc65FO1YAdVHr1g4CTO+qAw==
 =XQAz
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=replicadse&show_icons=true&theme=transparent)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=replicadse&layout=compact)
