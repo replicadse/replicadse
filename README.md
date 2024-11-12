@@ -1,5 +1,7 @@
 # aloha
 
+<a href="https://hexcode.substack.com">Check out my substack!</a>
+
 ## PGP public key:
 
 <a href="https://raw.githubusercontent.com/replicadse/replicadse/master/alexanderh.weber%40outlook.com.pub">Fingerprint: `F5DD 5219 407F D07B D17E  2E7B B857 357E 3D63 760B`</a>\
